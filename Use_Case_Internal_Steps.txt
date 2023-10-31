@@ -1,0 +1,115 @@
+				<<<-----Use Cases( Internal Steps)---->>>	
+
+ 
+
+Use Case Name: Manage Inventory 
+
+Actors: User, Power User 
+
+Objective: Allow users to manage their pantry inventory. 
+
+Main Scenario: 
+
+
+1) The user launches the inventory management application. 
+
+ 
+
+2) The system establishes a connection to the inventory database. 
+ 
+
+3) The system retrieves the user's current inventory from the database and displays it, 
+   including food items and their details (name, quantity, expiration date, etc.). 
+ 
+
+4)The user has the following options:  
+	4.a) Add a new food item to the inventory.  
+	4.b) Modify the details of an existing food item (name, quantity, expiration date, etc.).  
+	4.c) Remove a food item from the inventory. 
+ 
+5) After each action (addition, modification, or removal), 
+the system updates the displayed inventory with the changes made. 
+ 
+6) The user can continue to perform inventory management actions or exit the use case when they have completed
+   their operations. 
+ 
+7) When the user decides to exit the use case or closes the application,
+ the system closes the connection to the database. 
+
+Alternative Scenarios: 
+
+(Alternative Scenario 4.a.1): If the user tries to add an item that is already in the inventory,
+			      the system alerts the user and may offer the option to update the quantity instead 
+			      of adding a new one. 
+ 
+
+(Alternative Scenario 4.b.1): If the user changes the expiration date of a food item, 
+			      the system verifies if the new date is valid and provides a confirmation 
+                              or warning message if necessary. 
+
+(Alternative Scenario 4.c.1): If the user attempts to remove a food item that is not in the inventory,
+                              the system alerts the user and may offer the option to cancel the operation 
+                              or confirm the removal. 
+ 
+(Alternative Scenario 2.1): The system fails to establish a connection with the database. 
+
+ 
+
+	         
+
+<<<--------------------------------------------------------------------------------------->>>				 
+
+ 
+
+Nome del Caso d'Uso: Gestisci Inventario 
+
+Attori: Utente, Power User 
+
+Obiettivo: Consentire agli utenti di gestire il loro inventario di alimenti in dispensa. 
+
+1) L'utente avvia l'applicazione di gestione dell'inventario. 
+ 
+2)Il sistema stabilisce una connessione al database dell'inventario. 
+ 
+3) Il sistema recupera l'inventario corrente dell'utente dal database e lo visualizza,
+   inclusi gli alimenti e le relative informazioni (nome, quantità, data di scadenza, ecc.). 
+ 
+
+4) L'utente ha le seguenti opzioni: 
+
+	4.a)   Aggiungere un nuovo alimento all'inventario. 
+
+	4.b)   Modificare le informazioni di un alimento esistente (nome,quantità, data di scadenza, ecc.)
+ 
+	4.c)   Rimuovere un alimento dall'inventario. 
+ 
+
+5) Dopo ogni azione (aggiunta, modifica o rimozione),
+   il sistema aggiorna l'inventario visualizzato con le modifiche apportate. 
+ 
+
+6) L'utente può continuare a eseguire azioni di gestione dell'inventario o uscire dal caso d'uso
+   quando ha completato le sue operazioni. 
+
+7) Quando l'utente decide di uscire dal caso d'uso o chiude l'applicazione,
+    il sistema chiude la connessione al database. 
+
+Scenari Alternativi: 
+
+(Scenario Alternativo 4.a.1): Se l'utente tenta di aggiungere un alimento già presente nell'inventario,
+                              il sistema avvisa l'utente e può offrire l'opzione di aggiornare la quantità anziché
+                              aggiungerne una nuova. 
+ 
+
+(Scenario Alternativo 4.b.1): Se l'utente modifica la data di scadenza di un alimento,
+                              il sistema verifica se la nuova data è valida e fornisce un messaggio di conferma
+                              o di avviso se necessario. 
+
+(Scenario Alternativo 4.c.1): Se l'utente tenta di rimuovere un alimento che non è presente nell'inventario,
+                              il sistema avvisa l'utente e può offrire l'opzione di annullare l'operazione o 
+                              confermare la rimozione. 
+ 
+
+(Scenario Alternativo 2.1): Il Sistema non riesce a stabilire una connessione con il database. 
+
+ 

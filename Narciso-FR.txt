@@ -1,0 +1,39 @@
+REQUIREMENT: 
+
+1) The system must allow users to enter and update ingredients in inventory. 
+ 
+2)The system must ensure the protection of user data with encryption. 
+ 
+3)The system must reduce food waste. 
+
+Description: The system must be designed to reduce food waste by allowing users to monitor ingredient inventory,
+suggesting recipes that use expiring or abundant ingredients,
+and facilitating the donation of excess food to charitable organizations. 
+ 
+4) The system must simplify the user experience in managing excess food to be donated. 
+
+Description: The system must provide users with an intuitive, user-friendly interface to report excess food,
+coordinate donations with charities, and receive clear guidance on how 	to prepare and package food for donation.
+It must ensure that the donation process is hassle-free
+ and accessible to users of different levels of technological proficiency.” 
+
+
+
+1)  Il sistema deve consentire agli utenti di inserire e aggiornare gli ingredienti nell'inventario. 
+
+2) Il sistema deve garantire la protezione dei dati degli utenti con crittografia. 
+
+3)  Il sistema deve ridurre lo spreco alimentare. 
+
+Descrizione: Il sistema deve essere progettato per ridurre lo spreco alimentare
+consentendo agli utenti di monitorare l'inventario degli ingredienti, 
+suggerendo ricette che utilizzino gli ingredienti in scadenza o in abbondanza,
+e agevolando la donazione di cibo in eccesso a organizzazioni benefiche. 
+
+4) Il sistema deve semplificare l'esperienza dell'utente nella gestione del cibo in eccesso da donare. 
+
+Descrizione: Il sistema deve fornire agli utenti un'interfaccia intuitiva e user-friendly per
+segnalare il cibo in eccesso, coordinare le donazioni con organizzazioni benefiche e ricevere indicazioni 
+chiare su come preparare e confezionare il cibo per la donazione. 
+Deve garantire che il processo di donazione sia senza complicazioni e accessibile
+ a utenti di diversi livelli di competenza tecnologica. 

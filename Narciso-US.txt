@@ -1,0 +1,37 @@
+                           <---"USER STORIES"---->
+1)As a user I want to receive notifications when the items in my pantry are close to their expiration date,
+ so that I can plan meals to use them up before they expire. 
+ 
+
+2)As a user, I want an easy-to-use app to keep track of the items in my pantry and their shelf life,
+ so that I can reduce food waste and save money by using what I have. 
+ 
+
+3)As a user, I want to be informed when organizations are organizing food drives,
+ so that I can donate excess food from my pantry and contribute to reducing food waste. 
+ 
+
+4)As a power user, I want a specific catalog for food types, such as vegetables and fruits,
+ with the ability to manually set the expiration date for these products that would otherwise not have it listed. This way, I can keep track of fresh food expiration dates and minimize waste 
+
+
+
+
+
+1)Come utente desidero ricevere notifiche quando gli articoli nella mia dispensa sono vicini alla data di scadenza,
+ in modo da poter pianificare i pasti per consumarli prima che scadano. 
+ 
+
+2)Come utente, desidero un'app facile da usare per tenere traccia degli articoli nella mia dispensa
+ e della loro durata di conservazione, in modo da poter ridurre gli sprechi alimentari e risparmiare denaro
+ utilizzando ciò che ho. 
+ 
+
+3)Come utente, voglio essere informato quando associazioni organizzano raccolte alimentari, 
+in modo da poter donare il cibo in eccesso dalla mia dispensa e contribuire a ridurre gli sprechi alimentari. 
+ 
+
+4)Come power user, voglio un catalogo specifico per i tipi di alimenti, ad esempio verdure e frutta,
+ con la possibilità di impostare manualmente la data di scadenza per questi prodotti 
+che altrimenti non la riporterebbero. In questo modo,
+ posso tenere traccia delle scadenze degli alimenti freschi e minimizzare gli sprechi. 
